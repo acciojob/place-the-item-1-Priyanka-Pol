@@ -7,7 +7,7 @@
 	justify-content:space-around;
 	flex-flow:wrap;
 }
-.item{
+.container div{
 	width:100px;
 	background-color:darkblue;
 	color:white;
