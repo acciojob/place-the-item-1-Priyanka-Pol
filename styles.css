@@ -1,15 +1,15 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	background-color:lightblue;
  	display:flex; 
 	flex-direction:row; 
-	justify-content:space-around;
-	flex-flow:wrap;
+	justify-content:space-between;
+	flex-wrap:wrap;
 }
-.container div{
+/* .holder {
 	width:100px;
 	background-color:darkblue;
 	color:white;
 	margin:40px 10px;
-}
+} */
